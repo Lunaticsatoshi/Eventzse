@@ -1,5 +1,5 @@
 # Eventzse 
-A Events finding and scheduling web app made o simplify managing your local community events and meetups.
+A Events finding and scheduling web app made to simplify managing your local community events and meetups.
 
 ## About
 Eventzse helps you to schedule events and meetups among your community bringing everyone together. Just think about a time you want to get together with your community and let Eventzse handle all the hassle for you.
